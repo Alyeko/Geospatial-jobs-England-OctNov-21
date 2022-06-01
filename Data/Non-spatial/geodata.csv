@@ -1,0 +1,531 @@
+,field_1,Job_title,Company_name,Location,FILE_NAME
+1,1,Graduate Geospatial Specialist - Infrastructure & Consulting,Arup,"Solihull, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+4,4,GIS Analyst,Jacobs,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+5,5,GIS Analyst,Jacobs,"Wokingham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+6,6,Geospatial Developer,Jacobs,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+10,10,Graduate Geospatial Specialist - Infrastructure & Consulting,Arup,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+11,11,Data Analyst,Arup,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+12,12,GIS Analyst,Jacobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+15,15,Geospatial Consultant,Royal HaskoningDHV,"Peterborough, England, United Kingdom",EASTERN_ENGLISH_REGION
+17,17,Geospatial Consultant,Royal HaskoningDHV,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+18,18,ESRI Enterprise Administrator/ Developer,Jacobs,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+19,19,Geospatial Developer,Jacobs,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+20,20,Geospatial Consultant,Royal HaskoningDHV,"Liverpool, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+22,22,Geospatial Consultant,Royal HaskoningDHV,"Brighton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+23,23,Graduate Geospatial Specialist - Infrastructure & Consulting,Arup,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+25,25,Geospatial Consultant,Royal HaskoningDHV,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+27,27,Geospatial Consultant,Royal HaskoningDHV,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+28,28,Land Surveying Apprentice (Geospatial Technician) - Derby - 2022,Balfour Beatty plc,"Derby, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+30,30,ESRI Enterprise Administrator/ Developer,Jacobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+31,31,Land and Measured Building/Geospatial Surveyor,Ridge and Partners LLP,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+34,34,Graduate Geospatial Specialist - Infrastructure & Consulting,Arup,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+35,35,(Geospatial) Data Engineer,Lorien,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+37,37,ESRI Enterprise Administrator/ Developer,Jacobs,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+38,38,Geospatial Software Engineer,Planet,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+39,39,Geospatial Graduate Programme,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+41,41,Sales Consultant â€“ Geospatial and Information Management,Jacobs,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+42,42,Geospatial Data Scientist/Analyst (Digital Connectivity),"Department for Digital, Culture, Media and Sport (DCMS)","London, England, United Kingdom",LONDON_ENGLISH_REGION
+44,44,Hydroinformatics Developer,Jacobs,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+45,45,Hydroinformatics Developer,Jacobs,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+46,46,GIS Analyst,Stantec,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+48,48,Geospatial Consultant,Royal HaskoningDHV,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+50,50,Geospatial Data Scientist,Harnham,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+53,53,Remote-sensing/geospatial Analyst,FloodFlash,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+54,54,Senior GIS Analyst,Jacobs,"Wokingham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+55,55,Principal Geospatial Consultant,Jacobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+58,58,Asset Intelligence Consultant,Jacobs,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+60,60,Assistant GIS Consultant,Mott MacDonald,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+63,63,GIS Analyst,Stantec,"High Wycombe, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+64,64,GIS Officer,Milton Keynes Council,"Milton Keynes, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+65,65,Geospatial Data Scientist,Buro Happold,"Bath, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+66,66,Geospatial Consultant,Royal HaskoningDHV,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+67,67,Geospatial Data Scientist/Analyst (Digital Connectivity),"Department for Digital, Culture, Media and Sport (DCMS)","London, England, United Kingdom",LONDON_ENGLISH_REGION
+68,68,GIS Solution Engineer/EMEA GIS Lead,JLL Technologies,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+69,69,GIS Consultant - Southampton / Home OR Manchester / Home,Tetra Tech,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+70,70,Remote Sensing and Geospatial Analyst,2Excel Aviation Ltd,"Northampton, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+71,71,Principal GIS Consultant,Amey,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+74,74,Senior Geospatial Surveyor,Hays,"West Midlands, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+75,75,Geo Data Analyst,Sheer Jobs Limited,"Reading, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+76,76,Urban Data Scientist,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+77,77,Geospatial Engineer,Rigour Survey,"Snetterton, England, United Kingdom",EASTERN_ENGLISH_REGION
+78,78,Senior Machine Learning Engineer,Planet,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+79,79,Visual Analytics Developer,Atkins,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+80,80,Asset Intelligence Consultant,Jacobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+81,81,Geographic Information System Specialist,PUBLIC PRACTICE,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+82,82,GIS Analyst / Developer (at graduate level or above),HR Wallingford,"Wallingford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+83,83,Data Scientist,Methods Analytics,"Sheffield, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+84,84,Test Analyst,Hays,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+85,85,GIS Consultant,Mott MacDonald,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+86,86,GIS Developer,Satellite Vu,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+88,88,Data Scientist,BT,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+89,89,Graduate GIS Specialist,Thomson Environmental Consultants,"Guildford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+90,90,Geospatial Technical Specialist,Prodapta,"Norwich, England, United Kingdom",EASTERN_ENGLISH_REGION
+91,91,Geospatial 3D Web Mapping & Gaming Developer,Buro Happold,"Bath, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+92,92,Apprentice 3D Digital Surveyor,1st Horizon Surveying & Engineering Ltd,"South Yorkshire, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+93,93,GIS Analyst,Auckland Transport,"St. Helen Auckland, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+94,94,Geospatial Surveyor - Lake District,Tetra Tech,"Cockermouth, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+95,95,Geospatial Processor / Data processor,Travail Employment Group Ltd.,"Harrogate, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+96,96,GIS Solution Engineer/EMEA GIS Lead,JLL,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+97,97,Graduate Spatial Data Consultants,1Spatial,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+98,98,Geodata Analyst,Trimble Inc.,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+100,100,Advisers - Data & Evidence - various roles(Ref: 3758),Natural England,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+102,102,"Data Visualization Engineer - Geospatial, AI",Richard Wheeler Associates,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+103,103,Data Strategist,Hays,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+104,104,Full Stack Engineer: Geospatial Applications / Climate Tech,Climate X,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+105,105,Data Scientists & Data Engineers,Dstl,"Porton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+106,106,Geospatial Specialist,MOLA (Museum of London Archaeology),"Northampton, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+107,107,GIS / Cartographic Consultant,networx | Recruitment Software & Services,"Bilston, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+108,108,Data Scientist,AiDash,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+109,109,Data Engineer,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+110,110,Graduate Consultant Natural Capital and Environmental - London/Aldgate,AECOM,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+111,111,Data Engineer - Geospatial / GIS - Fully Remote Working,Michael Page,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+112,112,Senior Geospatial Analyst,Office for National Statistics,"Fareham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+113,113,SQL Database Developer & Analyst,TEP - The Environment Partnership,"Warrington, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+115,115,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+116,116,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+117,117,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+118,118,GIS Specialist,McLean HR,"Eynsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+119,119,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+120,120,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+121,121,Geospatial CAD Technician - All HALFF Locations,Halff Associates,"All Saints South Elmham, England, United Kingdom",EASTERN_ENGLISH_REGION
+122,122,GIS Specialist,McLean HR,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+123,123,ML Ops Engineer,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+124,124,"Senior Data Scientist, ESG Innovation and Analytics",S&P Global,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+125,125,Data Analyst,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+126,126,2022 Data Insights Unit Graduate Programme,Schroders,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+127,127,GIS Consultant/Senior GIS Consultant,Mott MacDonald,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+128,128,Senior Geospatial Surveyor - Midlands,Tetra Tech,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+129,129,Climate Scientist: Storms,Climate X,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+130,130,Data Scientist,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+131,131,Senior GIS Consultant,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+132,132,Senior GIS Consultant,Mott MacDonald,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+133,133,Data Scientist,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+134,134,Application GIS Specialist,Networkers - Technology Recruitment,"Worthing, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+136,136,"Senior Data Scientist, ESG Innovation and Analytics",__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+137,137,Data Scientist/AI Engineer,Capgemini,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+140,140,Spatial Data Engineer,Ex-MilitaryCareers.com,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+142,142,Sales Consultant â€“ Geospatial and Information Management,Jacobs,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+143,143,GIS Consultant,Capgemini,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+144,144,GIS Analyst - GEOGRAPHIC DATA - Spatial Analysis - London 45k,The Workplace Consultancy,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+145,145,Data Scientist,QBE Europe,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+147,147,Data Engineer,Landmark Information Group,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+149,149,Technical Trainer / Support Engineer,Trimble Inc.,"Milton Keynes, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+150,150,Principal GIS Consultant,Wood,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+151,151,Data Science Engineer,Jobs via eFinancialCareers,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+152,152,Data Engineer - GIS - Exeter,Michael Page,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+153,153,Cloud Operations Technical Writer,Trimble Inc.,"Ipswich, England, United Kingdom",EASTERN_ENGLISH_REGION
+154,154,Software Developer,Hays,"Taunton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+155,155,Data Engineer,Avison Young â”‚UK,"All Cannings, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+156,156,Data & Technology Graduate Programme,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+157,157,ESRI GIS Developer,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+158,158,Nuclear Site Support,umbrella,"Harwell, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+159,159,Machine Learning Engineer,Rezatec,"Didcot, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+160,160,Surveyor,Imerys,"Furzebrook, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+161,161,Data Science Engineer,Schroders,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+162,162,Junior Computer Vision Engineer,Asure Recruit,"Tunbridge Wells, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+163,163,Senior GIS Specialist,Wood,"Staines-upon-Thames, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+164,164,BI Engineer/Data Visualization,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+165,165,Lead Data Engineer - Geospatial / GIS - Fully Remote Working,Michael Page,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+166,166,Instrumentation and Monitoring Technician,Arcadis,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+167,167,Backend Engineer (Python),Built AI,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+168,168,OSINT Analyst,Booz Allen Hamilton,"Huntingdon, England, United Kingdom",EASTERN_ENGLISH_REGION
+169,169,Remote Sensing Engineer,Sylvera,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+170,170,"GIS Consultant (Various grades, multiple opportunities, UK Wide)",RSK Group,"Stonehouse, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+171,171,Research Assistant,University of Warwick,"Coventry, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+172,172,Data Science Engineer,Schroders,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+174,174,Data Scientist,Office for National Statistics,"Darlington, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+175,175,Sensor Operator,2Excel Aviation Ltd,"Doncaster, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+176,176,Associate Technical Director - Instrumentation & Monitoring,Arcadis,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+177,177,Data Scientist,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+178,178,Senior Data Engineer - Geospatial / GIS - Fully Remote Working,Michael Page,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+179,179,"Data Scientist, Analytics",what3words,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+181,181,ML Ops Engineer,DXC Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+182,182,Sales Consultant â€“ Geospatial and Information Management,Jacobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+184,184,Junior Software Engineer,Autodesk,"Newbury, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+185,185,Geoscience Software Engineer,CGG,"Crawley, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+186,186,Data Engineer/Data Scientist/ Asset Manager / London,Jobs via eFinancialCareers,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+188,188,GIS Specialist,RSK Group,"Dorking, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+189,189,Principal Data Engineer,Hays,"Somerset, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+190,190,Senior Geospatial Surveyor,Ridge and Partners LLP,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+191,191,Survey Policy Lead Technical Specialist,Lloyd's Register,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+192,192,Lead Data Scientist,Technical Resources Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+193,193,Hydrographic Surveyor,Port of London Authority,"Gravesend, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+194,194,Data Strategist,Kinect Recruitment Ltd,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+195,195,Data Strategist,Kinect Recruitment Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+196,196,Lead Advisers - Data & Evidence - various roles(Ref: 3757),Natural England,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+197,197,Data Science Lead,Datatonic,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+198,198,Lead Data Engineer,Harnham,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+199,199,GIS Quantitative Analyst,Lombard Odier Investment Managers,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+200,200,Data Scientist,Methods,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+201,201,Data Scientist,Methods,"Sheffield, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+203,203,Catastrophe Research Analyst,HIGH FINANCE (UK) LIMITED,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+204,204,Senior Data Scientist,AnyVan.com,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+205,205,Data Engineer,WovenLight,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+206,206,Principal Geospatial Surveyor - Lake District,Tetra Tech,"Cockermouth, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+207,207,Geomatics Surveyor,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+208,208,Data Engineer,Robert Walters,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+209,209,Temporary Biodiversity Data Admin Assistant x2 - TVERC,Triumph Consultants Ltd,"Oxfordshire, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+210,210,Data Analyst,QuantSpark,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+211,211,Land Surveyor Olympia,Laing O'Rourke,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+212,212,Consultant Scientist â€“ Integrated Catchment Water Quality Modelling,networx | Recruitment Software & Services,"Swindon, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+213,213,Land Surveyor - Asset Data Services,PM Group,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+214,214,Survey Manager,ATS Recruitment Limited,"Essex, England, United Kingdom",EASTERN_ENGLISH_REGION
+215,215,Survey Manager,ATS Recruitment Limited,"Ipswich, England, United Kingdom",EASTERN_ENGLISH_REGION
+216,216,Geospatial Sales Engineer,Maxar Technologies,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+217,217,Data Engineer,Robert Walters,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+218,218,Consultant Scientist- Integrated Catchment Water Quality Modelling,RSK Group,"Swindon, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+219,219,Survey Manager,Bemillion,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+220,220,Consultant Scientist â€“ Integrated Catchment Water Quality Modelling,RSK Group,"Purton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+221,221,Software Developer,BT,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+222,222,Developer,Markerstudy Insurance,"Tunbridge Wells, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+223,223,Geomatics Surveyor,Kinect Recruitment Ltd,"West Midlands, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+224,224,Planner,Urban Intelligence,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+225,225,Data Strategist,Kinect Recruitment Ltd,"Cheltenham, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+226,226,Sales Consultant â€“ Geospatial and Information Management,Jacobs,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+227,227,Application Developer,BAE Systems,"Rochester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+228,228,Impact Assessment Analyst,Connected Places Catapult,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+229,229,"Data & Analytics - Senior Associate, PWC",Guardian Jobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+230,230,Data Scientist / AI Engineer,TelcoProfessionals,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+231,231,Junior Software Engineer,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+232,232,Senior Advisers - Data & Evidence - various roles(Ref: 3746),Natural England,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+233,233,Data Scientist / AI Engineer,TelcoProfessionals,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+234,234,Data Strategist,Atkins,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+236,236,Fighting fire with fire: global impacts of climate change on wildfire mitigation using prescribed burns (JONES_ENV22CDCC),UEA,"Norwich, England, United Kingdom",EASTERN_ENGLISH_REGION
+237,237,Is reforestation delivering a win-win for climate and biodiversity? (GILROY_BIO22CDCC),UEA,"Norwich, England, United Kingdom",EASTERN_ENGLISH_REGION
+238,238,Senior GIS Consultant,ersg Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+240,240,Geomatics Surveyor,Kinect Recruitment Ltd,"Chelmsford, England, United Kingdom",EASTERN_ENGLISH_REGION
+241,241,Catastrophe & Climate Risk Actuarial Analyst,Willis Towers Watson,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+242,242,OSINT Analyst,Booz Allen,"Huntingdon, England, United Kingdom",EASTERN_ENGLISH_REGION
+243,243,Data Science Director,Code Worldwide,"London Gatwick Airport, England, United Kingdom",LONDON_ENGLISH_REGION
+244,244,Graduate Analyst,Ocado Group,"Hatfield, England, United Kingdom",EASTERN_ENGLISH_REGION
+245,245,National Centre for Geospatial Intelligence-Technology (NCGI-T) â€“ Specialist Support Team C2,UK Ministry of Defence,"Abbots Ripton, England, United Kingdom",EASTERN_ENGLISH_REGION
+246,246,Machine Learning Team Lead,Kandidate,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+247,247,Senior Machine Learning Scientist - DeepTech Startup (AgriTech),Kandidate,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+248,248,Senior Machine Learning Scientist,Kandidate,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+249,249,Analyst- Strategy & Analytics,QuantSpark,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+250,250,Junior Analyst - Strategy & Analytics,QuantSpark,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+252,252,Planner (Remote),Urban Intelligence,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+253,253,Interim Biodiversity Data Manager - Environmental Records,Triumph Consultants Ltd,"Oxfordshire, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+254,254,Telecoms Survey Manager,ISR Recruitment,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+255,255,OSINT Analyst,Booz Allen Hamilton,"Huntingdon, England, United Kingdom",EASTERN_ENGLISH_REGION
+256,256,Assistant Survey Manager,MCG,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+257,257,Data Strategist,Kinect Recruitment Ltd,"Aldershot, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+259,259,Impact Assessment Specialist,Connected Places Catapult,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+260,260,Data Engineer,Robert Walters,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+261,261,Commercial Modelling Principal Analyst,Direct Line Group,"Kent, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+262,262,Software developer for advanced UAS operations,Carmenta,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+264,264,Data & Analytics - Senior Associate,PwC UK,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+265,265,Associate Test Engineer,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+267,267,Data Engineer,Zoopla,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+268,268,Data Engineer - Distributed Data Systems,Opus Resourcing Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+269,269,Instrumentation & Monitoring (I&M) Manager,Arcadis,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+270,270,Technical Experts RFFP,Satellite,"Oxfordshire, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+271,271,Instrumentation & Monitoring (I&M) Manager,Arcadis,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+272,272,Full Stack Engineer - JavaScript/TypeScript/React/Node â€“ ML Renewable Energy Platform - Up to Â£85k + Bens,Search Technology,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+273,273,Senior Data Scientist,Parkopedia,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+274,274,Commercial Modelling Principal Analyst,Direct Line Group,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+275,275,Environmental Economist,Connected Places Catapult,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+276,276,Data Engineer,Nicoll Curtin,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+278,278,Senior Software Developer,Arup,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+279,279,Geomatics Surveyor,Formby Surveys,"Liverpool, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+280,280,Front Office Full Stack Developer,UBS,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+281,281,SSPAG Strategic Assessments - Senior Studies Analyst,UK Ministry of Defence,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+282,282,Access Management Specialist - GIS Workplace,Computacenter,"Hatfield, England, United Kingdom",EASTERN_ENGLISH_REGION
+283,283,Senior Data Scientist,Omni,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+284,284,Senior Machine Learning Engineer,Parkopedia,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+285,285,Land and Measured Building/Geospatial Surveyor,Ridge and Partners LLP,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+286,286,Data Mobilisation Senior Adviser (Ref: 3791),Natural England,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+287,287,Senior GIS Consultant,Electus Recruitment Solutions,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+288,288,Identity Management Specialist - GIS Workplace,Computacenter,"Hatfield, England, United Kingdom",EASTERN_ENGLISH_REGION
+289,289,Principle Pricing Analyst Developer,Direct Line Group,Greater Leeds Area,YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+290,290,Data Strategist,Hays,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+291,291,Land Surveyor,JBA Consulting,"Wallingford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+293,293,Full Stack Engineer - JavaScript/TypeScript/React/Node - ML Renewable Energy Platform - Up to Â£85k + Bens,Search Technology,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+294,294,Full-stack Developer,Wireless Coverage Ltd,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+295,295,Commercial Modelling Principal Analyst,Direct Line Group,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+296,296,Digital Front End Developer,Heat Recruitment,"Corsham, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+297,297,Senior Data Scientist,Omni,"Vintry, England, United Kingdom",LONDON_ENGLISH_REGION
+298,298,GEOINT,CACI International Inc,"Southampton International Airport, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+299,299,Survey Manager,Conrad Consulting,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+300,300,Software Engineer - Modelling,Hiscox,"York, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+301,301,Synthetic Environment and Sim Technical Lead,QinetiQ,"Farnborough, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+303,303,Senior Statistical Analyst,Rightmove,"City of London, England, United Kingdom",LONDON_ENGLISH_REGION
+304,304,Chief Technology Officer,Prospectus,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+305,305,Senior GIS Consultant,Electus Recruitment Solutions,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+306,306,Land Surveyor,JBA Consulting,"North Yorkshire, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+307,307,Software Developer,Willis Towers Watson,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+308,308,Survey Manager,Jurassic Fibre,"Honiton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+310,310,Research Fellow in Environmental Archaeology (fixed term),University of Nottingham,"Nottingham, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+311,311,Assistant Survey Manager,MCG Construction,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+313,313,Data Analyst,what3words,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+314,314,Software Developer,Heat Recruitment,"Taunton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+315,315,Front End Engineer,Sensat,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+316,316,Back End Developer,ERA-co,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+317,317,Full Stack Developer,Ordnance Survey,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+318,318,Dialogues of fire: bridging disciplinary boundaries to climate-proof biocultural diversity in Amazonia (CARMENTA_ENV22CDCC),UEA,"Norwich, England, United Kingdom",EASTERN_ENGLISH_REGION
+319,319,Geomatics Surveyor,Millbank,"All Cannings, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+320,320,Senior Surveyor,Cushman & Wakefield,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+321,321,Software QA Engineer,Autodesk,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+322,322,CAD Consultant,PM Group,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+324,324,Data Science Lead / Head of Data Science,Datatonic,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+325,325,Senior GIS Consultant,Millbank,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+326,326,Software QA Engineer,Autodesk,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+327,327,Support Engineer (Electrical Engineering),Trimble Inc.,"Milton Keynes, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+328,328,Senior Tunnel Surveyor,Balfour Beatty VINCI,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+329,329,Senior Land Surveyor,Eiffage Kier Ferrovial BAM,"Bicester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+330,330,Software Engineer,QinetiQ,"Portsmouth, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+331,331,Senior Project Surveyor,AECOM,"Plymouth, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+332,332,Senior Data Engineer,Harnham,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+333,333,Software Engineer / Full Stack Developer,Enian,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+334,334,Front End Developer,CGI,"East Sussex, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+335,335,Technical Lead,GE Digital,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+336,336,Surveyor / Senior Surveyor / Associate,Savills,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+337,337,Software Engineer,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+338,338,Associate Technical Director - Geotechnics,Arcadis,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+339,339,Survey Manager,Bemillion,"Harlow, England, United Kingdom",EASTERN_ENGLISH_REGION
+340,340,Senior GIS Software Support Engineer,1Spatial,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+341,341,Survey Manager,Conrad Consulting,"Suffolk, England, United Kingdom",EASTERN_ENGLISH_REGION
+343,343,Cloud Services Chief Engineer,Animal Dynamics Limited,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+344,344,Senior Scientific Content Editor,RMS,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+345,345,Software QA Engineer,Autodesk,"Newbury, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+347,347,Software QA Engineer,Autodesk,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+348,348,Survey Manager,Bristol City Council,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+349,349,Senior Data Consultant,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+350,350,Survey Manager,Bristol City Council,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+351,351,Lead/Senior Research Scientist (Defence & Security),Mind Foundry,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+352,352,Senior Data Consultant,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+353,353,Software QA Engineer,Autodesk,"Wallingford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+354,354,Full Stack Software Developer,L3Harris Technologies,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+355,355,Head of Data Science & Engineering - GIS (Flexible Working),Michael Page,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+356,356,Full Stack Developer,Full Circle Recruitment Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+357,357,Associate - Investment Analytics,Victory Hill Capital Advisors LLP,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+358,358,Software Delivery Engineer,Trimble Inc.,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+359,359,Geomatics Surveyor,Electus Recruitment Solutions,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+360,360,Software QA Engineer,Autodesk,"Sheffield, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+361,361,Full Stack Developer - Kotlin React TypeScript,Client Server,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+362,362,Front:End Developer,TipTopJob,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+363,363,Survey Manager,Bemillion,"Buckhurst Hill, England, United Kingdom",EASTERN_ENGLISH_REGION
+365,365,Counterintelligence Targeting Analyst,Booz Allen Hamilton,"Huntingdon, England, United Kingdom",EASTERN_ENGLISH_REGION
+366,366,Senior Surveyor - Development Agency,Hays,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+367,367,Software QA Engineer,Autodesk,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+368,368,Underwriting Analyst,Direct Line Group,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+369,369,Pricing Analyst,Direct Line Group,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+370,370,"Research Fellow, Population, Health and Wellbeing",University of Southampton,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+371,371,Underwriting Analyst,Direct Line Group,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+372,372,Software QA Engineer,Autodesk,"Farnborough, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+373,373,Underwriting Analyst,Direct Line Group,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+374,374,Senior Data Engineer,ZÃ¼hlke Group,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+375,375,Resourcing Coordinator,Thomson Environmental Consultants,"Guildford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+376,376,SAFe Consultant,CGI,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+377,377,"Technical Delivery Lead - FS Banking / AWM data experience, PWC",Guardian Jobs,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+378,378,Data Engineer Tech Lead,Nicoll Curtin,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+379,379,Full Stack Developer,Redimeer,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+380,380,Full Stack Engineer,Exertis Hammer,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+381,381,Full Stack Developer - JavaScript - Node.Js - React,Deerfoot IT Resources Limited,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+382,382,Software Engineer (3D),PDFTron Systems Inc.,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+383,383,Senior Python Data Engineer,Harnham,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+384,384,Technical Delivery Lead - FS Banking / AWM data experience,PwC UK,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+385,385,Pricing Analyst,Direct Line Group,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+386,386,Chief Data Scientist,Reech Corporations Group,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+387,387,Installation Surveying Engineer,Centrica,"Norfolk, England, United Kingdom",EASTERN_ENGLISH_REGION
+388,388,Senior Data Engineer,ZÃ¼hlke Group,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+390,390,Full Stack Engineer (Drones / Maps / Data),Hammer Missions,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+391,391,Net Developer - Capital Modelling and Catastrophe,MLR Associates Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+393,393,System Architect,Airbus,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+394,394,Python / AWS Developer,Jefferson Frank,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+395,395,DevOps Engineer,Rowden Technologies,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+396,396,Java Developer React TypeScript - Flexible Working,Client Server,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+397,397,Full Stack Developer Node,Cortex IT Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+398,398,Software Engineer - Front-End,Rezatec,"Didcot, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+399,399,Senior Surveyor,ATS Recruitment Limited,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+400,400,Pricing Analyst,Direct Line Group,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+401,401,Technical Product Manager,Hays,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+402,402,Commercial Modelling Principal Analyst,Direct Line Group,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+403,403,Senior Surveyor,Bemillion,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+404,404,EAM System Engineer,National Grid,"Warwick, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+405,405,Full Stack Developer (.NET),Orbital Witness,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+406,406,Senior Valuation Surveyor / Associate,Jack Peters Property Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+407,407,Senior Scientific Content Editor,Quadrant Risk Management,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+410,410,Senior Python Data Engineer,Parkopedia,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+411,411,Senior Topographical Surveyor- Birmingham,WSP in the UK,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+412,412,Marketing Executive (3 days per week Part Time),Landmark Information Group,"Reading, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+413,413,Assistant Survey Manager,Omni,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+414,414,"Telecom, Media & Entertainment Product Consultant",Bain & Company,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+416,416,Full Stack Engineer,Kamma,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+418,418,Senior Strategy and Operations Analyst,Amazon,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+421,421,Cloud Infrastructure Architect,Airbus,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+422,422,Surveyor/Senior Surveyor - Student Accommodation Valuation,CBRE,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+423,423,Surveyor & Mapper - Senior,SFWMD,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+425,425,DevOps Engineer,Spyrosoft UK,"Dorset, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+426,426,Front End Developer,YourPrime Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+427,427,Senior Surveyor - Self-Storage & Leisure Valuation,CBRE,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+428,428,Software Developer 100% Remote Working,TQR Consultancy Ltd,"Ivybridge, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+429,429,Data Architect - Big Data/Data Science,Opus Resourcing Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+430,430,Temporary Principal Street Naming & Numbering Officer,Triumph Consultants Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+431,431,Senior Backend Developer - JavaScript - Node.JS,Deerfoot IT Resources Limited,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+432,432,Senior Software Engineer,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+433,433,Software Automation Engineer SC Cleared,Accessplc,"Winchester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+434,434,Senior Surveyor,Hays,"Warrington, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+435,435,Development Manager,Lewisham Council,"Lewisham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+436,436,Full Stack Developer,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+437,437,Software Engineer I,Everbridge,"Camberley, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+438,438,Software Engineer,GeoPlace,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+439,439,Senior Java Developer - Full-Stack,Airbus,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+440,440,VP Data,Laka,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+442,442,Data Product Manager,Landmark Information Group,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+443,443,Software Engineer - Front End,Rezatec,"Didcot, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+444,444,Test Automation Engineer,Hays,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+445,445,Senior Building Measurement Survey Manager,Sunshine Recruitment Group Ltd,"Buckinghamshire, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+446,446,Senior Insight Manager,British Land,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+447,447,Surveyor/Senior Surveyor - Student Accommodation Valuation,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+448,448,Senior Project Surveyor,AECOM,"Leeds, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+449,449,Senior Surveyor,ISG,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+450,450,Operations Support & Field Engineer,EarthSense,"Leicester, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+451,451,Senior Developer C# .NET,ISO,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+453,453,Software Engineer (Server side),Trimble Inc.,"Ipswich, England, United Kingdom",EASTERN_ENGLISH_REGION
+455,455,"Senior Front End Developer - React, UI (AI start-up)",Richard Wheeler Associates,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+456,456,Senior Project Surveyor,AECOM,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+457,457,Senior Front End Developer,YourPrime Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+458,458,Senior Surveyor,Thomas Gray,"Bedfordshire, England, United Kingdom",EASTERN_ENGLISH_REGION
+460,460,Senior Full Stack Engineer (continuously hiring),Orbital Witness,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+463,463,Senior Surveyor,Avison Young â”‚UK,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+464,464,Senior Surveyor - Self-Storage & Leisure Valuation,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+465,465,Senior Surveyor - Portfolio Valuation,Cushman & Wakefield,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+466,466,Senior Project Surveyor,AECOM,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+467,467,Senior Utility Surveyor,Sunshine Recruitment Group Ltd,"Gloucestershire, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+468,468,Senior Project Surveyor - Utilities,AECOM,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+469,469,Senior Backend Engineer (continuously hiring),Orbital Witness,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+470,470,Project Administrator,Thomson Environmental Consultants,"Guildford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+471,471,Growth Executive,Kamma,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+472,472,Senior Project Surveyor,AECOM,"Peterborough, England, United Kingdom",EASTERN_ENGLISH_REGION
+473,473,Technical Product Owner,Landmark Information Group,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+474,474,Senior Data Engineer,The Talent Partnership,"Basingstoke, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+475,475,Senior Surveyor (Passenger Ship Specialist),Cayman Islands Shipping Registry,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+476,476,Principal Software Architect - deep tech AI start-up,TelcoProfessionals,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+477,477,Product Owner,Cirium,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+478,478,Senior Surveyor,Adecco,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+479,479,Senior Surveyor / Employers Agent,Hays,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+480,480,Senior Java Developer and Scrum Master - Full-Stack,Airbus,"Newcastle upon Tyne, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+481,481,Interim Digital Tester/Automation - Remote Working,Triumph Consultants Ltd,"Exeter, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+482,482,Senior Project Surveyor,AECOM,"Norwich, England, United Kingdom",EASTERN_ENGLISH_REGION
+483,483,Senior Engineering Surveyor,Bemillion,"Buckhurst Hill, England, United Kingdom",EASTERN_ENGLISH_REGION
+484,484,Senior Project Surveyor,AECOM,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+485,485,Senior Full Stack Engineer,Orbital Witness,"Clerkenwell, England, United Kingdom",LONDON_ENGLISH_REGION
+486,486,Senior Data Engineer,WovenLight,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+487,487,Database Engineer - Manager II,"DigiFlight, Inc.","Molesworth, England, United Kingdom",EASTERN_ENGLISH_REGION
+488,488,Configuration Management Data Base - Data Analyst - CONTRACT,Matchtech,"Feltham, England, United Kingdom",LONDON_ENGLISH_REGION
+489,489,Senior Software Engineer,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+490,490,Product Manager,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+491,491,Senior Engineering Surveyor,Bemillion,"Harlow, England, United Kingdom",EASTERN_ENGLISH_REGION
+492,492,Installation Surveying Engineer,Centrica,"Chilton Foliat, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+493,493,Pricing & Underwriting Analyst,Direct Line Group,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+494,494,Senior Topographical Surveyor,Calibre Search,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+495,495,Design and Survey Manager Documents to download,Blackpool Teaching Hospitals NHS Foundation Trust,"Blackpool, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+496,496,Senior Developer,Markerstudy Insurance,"Tunbridge Wells, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+497,497,Principal Software Developer,prosperIS Recruitment,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+498,498,Senior Engineering Surveyor,J. Murphy & Sons Limited,Worcester and Kidderminster Area,WEST_MIDLANDS_ENGLISH_REGION
+501,501,Platform Architect,CGG,"Crawley, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+502,502,Senior Back-End Developer,StratumFive Ltd,"Shoreham by Sea, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+503,503,Head of Data Management Solutions,Airbus,"Greater Guildford Area, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+504,504,Valuation Surveyor / Senior Surveyor,CCO Group Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+505,505,Valuation Surveyor / Senior Surveyor,CCO Group Ltd,"City of London, England, United Kingdom",LONDON_ENGLISH_REGION
+506,506,Defence Intelligence Solution Architect,QinetiQ,"Great Malvern, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+508,508,Partner Sales Development Representative,Planet,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+509,509,Surveyor Manager,ATS Recruitment Limited,"Swinton, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+510,510,Senior GIS Team Leader,Millbank,"All Cannings, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+511,511,Senior Valuation Surveyor - Specialist Markets,Cushman & Wakefield,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+512,512,Surveyor/Senior Surveyor - Retail Valuation,CBRE UK,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+513,513,Surveyor/Senior Surveyor - Retail Valuation,CBRE,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+514,514,Senior Surveyor,Hays,"Gravesend, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+515,515,Assistant Survey Manager,Omni,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+518,518,Apprentice Sales Executive,Trimble Inc.,"Milton Keynes, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+521,521,DevOps Engineer,Markerstudy Insurance,"Tunbridge Wells, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+522,522,Surveyor/Senior Surveyor - Roadside Valuation & Investment,CBRE,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+523,523,"Principal Software Architect - Cloud, SOA, AI",TelcoProfessionals,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+524,524,Senior Data Engineer,Zoopla,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+525,525,Senior Surveyor,Avison Young,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+526,526,Counterintelligence and/or HUMINT Support,CACI International Inc,"Southampton International Airport, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+527,527,Surveyor Manager,ATS Recruitment Limited,"York, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+528,528,Project Manager,Hays,"Taunton, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+529,529,Senior Developer C# .Net Full Stack,Asure Recruit,"Tunbridge Wells, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+531,531,Senior Surveyor - Building Consultancy,JLL,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+532,532,Senior Surveyor (Strutt & Parker - Chelmsford Development),Strutt & Parker,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+533,533,"Senior Business Analyst, Liverpool",WSP in the UK,"Liverpool, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+534,534,Senior Project Surveyor,Randstad UK,"Warrington, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+535,535,Senior/Utility Surveyor,ATS Recruitment Limited,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+536,536,"Director of Partnerships, EMEA",Planet,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+538,538,QA Automation Engineer,Landmark Information Group,"Reading, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+539,539,Surveyor/Senior Surveyor - Retail Valuation,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+540,540,VP Data,Laka,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+541,541,Senior/Utility Surveyor,ATS Recruitment Ltd,"West Sussex, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+542,542,Rail Engineering Contractor,Critical Project Resourcing Ltd,"Derby, England, United Kingdom",EAST_MIDLANDS_ENGLISH_REGION
+543,543,Senior Rating Surveyor,Property Week,"Denton, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+544,544,Sales Development Representative London,ESOMAR,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+545,545,Senior Surveyor/Associate Director,CBRE UK,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+546,546,Cyber Security Analyst,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+547,547,Senior Delivery Surveyor - Rail,ATS Recruitment Limited,"Swinton, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+548,548,Senior Project Surveyor/Project Surveyor,BAM Construct UK,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+549,549,Surveyor/Senior Surveyor - Roadside Valuation & Investment,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+550,550,Head of Data Strategy,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+551,551,Senior Software Consultant,MarkLogic,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+552,552,Associate Product Manager,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+553,553,Business Rates Senior Surveyor,Capita,"Cheltenham, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+555,555,Surveyor / Senior Surveyor,BK Service Company Limited,"Birmingham, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+556,556,Head of School of Engineering,Newcastle University,"Newcastle, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+558,558,Interim Senior Surveyor,Triumph Consultants Ltd,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+559,559,Lead Project Planner,BAE Systems,"Rochester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+560,560,Service Technician,KOREC Group,"Huntingdon, England, United Kingdom",EASTERN_ENGLISH_REGION
+561,561,Utility/Senior Utility Surveyor,ATS Recruitment Limited,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+562,562,Recruitment Coordinator - Fixed Term Contract,1Spatial,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+564,564,Senior Delivery Surveyor - Rail,ATS Recruitment Limited,"York, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+565,565,Senior DevOps Engineer,Leidos,"Farnborough, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+567,567,"Business Development Manager, Joint Engagement Team",Maxar Technologies,"Manchester, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+568,568,Senior DevOps Engineer,Leidos,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+569,569,Senior DevOps Engineer,Leidos,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+570,570,Sales Executive,Carmenta,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+571,571,Senior DevOps Engineer,Leidos,"Farnborough, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+572,572,Surveyor/Senior Surveyor - Residential Investment Valuation,CBRE,"London Area, United Kingdom",LONDON_ENGLISH_REGION
+573,573,Performance Solutions Consultant,Finning,"Cannock Wood, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+574,574,Senior Build Surveyor,Ivy Resource Group,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+575,575,EAM Solution Architect,National Grid,"Warwick, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+576,576,Partner Business Manager,Planet,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+577,577,Senior Project Surveyor,Twidol Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+578,578,Performance Solutions Consultant,Finning,"Cannock Wood, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+579,579,Finance Analyst,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+580,580,Senior Build Surveyor,Ivy Resource Group,"Bexley, England, United Kingdom",LONDON_ENGLISH_REGION
+581,581,Senior Payroll Specialist,Robert Half,"Oxford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+582,582,Data Project Manager,Page Personnel,"Reading, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+583,583,Commercial Finance Business Partner,Landmark Information Group,"Reading, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+584,584,"Digital Construction Surveyors and Senior Surveyors â€“ Setting Out, London",Murphy Geospatial,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+585,585,Utilities Arb Surveyor / Project Manager,MEILLEUR LTD,"Hampshire, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+586,586,Senior Surveyor/Associate Director - M&G,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+587,587,Senior Project Surveyor,Twidol Recruitment,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+588,588,Senior Surveyor/Associate Director - M&G,CBRE,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+589,589,Principal Surveyor - Rail,ATS Recruitment Limited,"York, England, United Kingdom",YORKSHIRE_AND_THE_HUMBER_ENGLISH_REGION
+590,590,Principal Surveyor - Rail,ATS Recruitment Limited,"Swinton, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+591,591,Senior Surveyor/Associate Director - - Student Accommodation Investment,CBRE,"Well, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+592,592,Operations Manager (French Speaking),DoorFeed,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+593,593,Project Manager HS2,PWS TECHNICAL SERVICES (UK) LTD,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+594,594,Estate Surveyor,NUMBER 8 RESOURCING LIMITED,"South Ockendon, England, United Kingdom",EASTERN_ENGLISH_REGION
+595,595,Senior DevOps Engineer,Leidos,"Bedfordshire, England, United Kingdom",EASTERN_ENGLISH_REGION
+596,596,Senior Project Surveyor,Setsquare Recruitment,"Bristol, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+597,597,Senior Surveyor/Associate Director - Residential Capital Markets,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+598,598,Test Lead,Ordnance Survey,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+599,599,Senior Residential Surveyor (Fire Safety),Michael Page,"Cumbria, England, United Kingdom",NORTH_WEST_ENGLISH_REGION
+600,600,Devops/Automation Engineer SC Cleared,Accessplc,"Winchester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+601,601,Cyber Security Consultant,TelcoProfessionals,"Southampton, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+602,602,Business Development Manager,Tamoco,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+604,604,Senior Surveyor/Associate Director - Residential Capital Markets,CBRE,"Well, England, United Kingdom",SOUTH_WEST_ENGLISH_REGION
+605,605,Senior Business Development Manager - Public Sector,Envitia,"Horsham, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+606,606,Finance Officer,BAE Systems,"Rochester, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+607,607,Arborist,Thomson Environmental Consultants,"Guildford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+609,609,UI/UX Designer,1Spatial,"Cambridge, England, United Kingdom",EASTERN_ENGLISH_REGION
+610,610,Business Development Manager,Bemillion,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+612,612,Sales Executive,Kamma,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+613,613,School Education Assistant Manager,Newcastle University,"Newcastle, England, United Kingdom",NORTH_EAST_ENGLISH_REGION
+614,614,Client Engagement Manager,Rizing,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+615,615,Senior Surveyor - Associate Director - Property Management - CBRE Investment Management,CBRE,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+616,616,Senior Surveyor/Associate Director - - Student Accommodation Investment,__,"London, England, United Kingdom",LONDON_ENGLISH_REGION
+617,617,Sales Manager - Ground Segment and EO Services,Airbus,"Guildford, England, United Kingdom",SOUTH_EAST_ENGLISH_REGION
+619,619,Enterprise Asset Management Consultant,National Grid,"Warwick, England, United Kingdom",WEST_MIDLANDS_ENGLISH_REGION
+620,620,Senior Ethnographic User Researcher,WhereIsMyTransport,"London, England, United Kingdom",LONDON_ENGLISH_REGION
